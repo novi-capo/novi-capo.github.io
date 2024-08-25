@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://novi-capo.github.io/sitemap/sitemap.txt
